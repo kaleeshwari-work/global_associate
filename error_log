@@ -1,0 +1,10 @@
+[24-Jun-2024 01:28:51 UTC] PHP Notice:  Undefined index: name in /home/pojotech/public_html/enquiry.php on line 2
+[24-Jun-2024 01:28:51 UTC] PHP Notice:  Undefined index: email in /home/pojotech/public_html/enquiry.php on line 3
+[24-Jun-2024 01:28:51 UTC] PHP Notice:  Undefined index: phone in /home/pojotech/public_html/enquiry.php on line 4
+[24-Jun-2024 01:28:51 UTC] PHP Notice:  Undefined index: dtype in /home/pojotech/public_html/enquiry.php on line 5
+[24-Jun-2024 01:28:51 UTC] PHP Notice:  Undefined index: message in /home/pojotech/public_html/enquiry.php on line 6
+[01-Jul-2024 14:19:53 UTC] PHP Notice:  Undefined index: name in /home/pojotech/public_html/enquiry.php on line 2
+[01-Jul-2024 14:19:53 UTC] PHP Notice:  Undefined index: email in /home/pojotech/public_html/enquiry.php on line 3
+[01-Jul-2024 14:19:53 UTC] PHP Notice:  Undefined index: phone in /home/pojotech/public_html/enquiry.php on line 4
+[01-Jul-2024 14:19:53 UTC] PHP Notice:  Undefined index: dtype in /home/pojotech/public_html/enquiry.php on line 5
+[01-Jul-2024 14:19:53 UTC] PHP Notice:  Undefined index: message in /home/pojotech/public_html/enquiry.php on line 6
